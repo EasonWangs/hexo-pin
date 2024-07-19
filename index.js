@@ -22,7 +22,7 @@ hexo.extend.injector.register(
     "post"
 );
 
-hexo.extend.tag.register("masonry", (args, content) => {
+hexo.extend.tag.register("pin", (args, content) => {
 	 const title = args[0] ? args[0] : "",
 			desc = args[1] ? args[1] : "";
 	return new Promise((resolve, reject) => {
