@@ -19,6 +19,10 @@ $ npm install hexo-pin --save
 {% endpin %}
 ```
 
+## Demo
+[十首感叹年华的诗](https://www.cssass.com/2024/07/15/%E5%8D%81%E9%A6%96%E6%84%9F%E5%8F%B9%E5%B9%B4%E5%8D%8E%E7%9A%84%E8%AF%97/)
+
+
 ## License
 
 MIT
