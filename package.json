@@ -1,6 +1,6 @@
 {
   "name": "hexo-pin",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Masonry Layouts，瀑布流",
   "main": "index.js",
   "scripts": {
