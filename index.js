@@ -3,7 +3,7 @@ const fs = require("hexo-fs");
 const renderer = require("./renderer");
 
 hexo.extend.filter.register('before_generate', function(){
-  console.log("hexo-masonry");
+  console.log("hexo-pin");
 });
 
 const style = fs.readFileSync(path.resolve(__dirname, "./templates/assets/masonry.css"), { encoding: "utf8" });

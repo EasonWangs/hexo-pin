@@ -1,6 +1,6 @@
 {
   "name": "hexo-pin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Masonry Layouts，瀑布流",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neoxone2/hexo-pin.git"
+    "url": "git+https://github.com/EasonWangs/hexo-pin.git"
   },
   "keywords": [
     "hexo",
@@ -19,7 +19,7 @@
   "author": "neo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/neoxone2/hexo-pin/issues"
+    "url": "https://github.com/EasonWangs/hexo-pin/issues"
   },
-  "homepage": "https://github.com/neoxone2/hexo-pin#readme"
+  "homepage": "https://github.com/EasonWangs/hexo-pin#readme"
 }
